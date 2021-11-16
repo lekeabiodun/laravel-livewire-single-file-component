@@ -1,16 +1,16 @@
 <?php
 
-namespace VendorName\Skeleton\Facades;
+namespace Lekeabiodun\LivewireSingleFileComponent\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \VendorName\Skeleton\Skeleton
+ * @see \Lekeabiodun\LivewireSingleFileComponent\LivewireSingleFileComponent
  */
-class Skeleton extends Facade
+class LivewireSingleFileComponent extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return 'skeleton';
+        return 'livewire-single-file-component';
     }
 }

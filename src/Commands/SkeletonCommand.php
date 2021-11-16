@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Lekeabiodun\LivewireSingleFileComponent\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LivewireSingleFileComponentCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'livewire-single-file-component';
 
     public $description = 'My command';
 
