@@ -2,9 +2,9 @@
 
 namespace Lekeabiodun\LivewireSingleFileComponent;
 
+use Lekeabiodun\LivewireSingleFileComponent\Commands\LivewireSingleFileComponentCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Lekeabiodun\LivewireSingleFileComponent\Commands\LivewireSingleFileComponentCommand;
 
 class LivewireSingleFileComponentServiceProvider extends PackageServiceProvider
 {

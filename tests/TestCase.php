@@ -3,8 +3,8 @@
 namespace Lekeabiodun\LivewireSingleFileComponent\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Lekeabiodun\LivewireSingleFileComponent\LivewireSingleFileComponentServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
